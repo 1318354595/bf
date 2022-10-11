@@ -1,4 +1,3 @@
 <?php
-$a = exec("ls");
-echo ("$a")
+echo sb
 ?>
